@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "baileys": "^6.7.1",
+    "baileys": "^6.6.0",
     "axios": "^1.6.0",
     "pino": "^8.14.1"
   }
